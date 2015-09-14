@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+init {
+  atomic {
+    ${1:/*body...*/}
+  }
+
+  _nr_pr == 1 -> ${2:assert($3:condition)}
+}
+]]></content>
+  <tabTrigger>ina</tabTrigger>
+  <scope>source.promela</scope>
+  <description>init with atomic</description>
+</snippet>

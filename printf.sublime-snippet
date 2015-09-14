@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+printf("${1:msg}${2:\n}");
+]]></content>
+  <tabTrigger>pf</tabTrigger>
+  <scope>source.promela</scope>
+  <description>printf</description>
+</snippet>

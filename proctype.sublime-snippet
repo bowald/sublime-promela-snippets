@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+proctype ${1:p}() {
+	${2:/*body...*/}
+}
+]]></content>
+	<tabTrigger>pr</tabTrigger>
+	<scope>source.promela</scope>
+  <description>proctype</description>
+</snippet>

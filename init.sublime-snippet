@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+init {
+  ${1:/*body...*/}
+}
+]]></content>
+  <tabTrigger>in</tabTrigger>
+  <scope>source.promela</scope>
+  <description>init</description>
+</snippet>

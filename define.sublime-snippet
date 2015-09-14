@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+#define ${1:name} ${2:value}
+]]></content>
+  <tabTrigger>de</tabTrigger>
+  <scope>source.promela</scope>
+  <description>#define</description>
+</snippet>
