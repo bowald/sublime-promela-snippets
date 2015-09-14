@@ -1,7 +1,8 @@
 Sublime Text Editor 2 / 3 - Promela Snippets
 ===========================================
 
-Promela snippets for Sublime Text 2 / 3. This is **as of now not finnished** and is intended for my persenal use. However feel free to contribute or use the snippets how ever you like.
+Promela snippets for Sublime Text 2 / 3. This is **as of now not finished** and is intended for my personal use. However feel free to contribute or use the snippets how ever you like.
+
 
 
 Install
